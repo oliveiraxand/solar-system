@@ -11,9 +11,7 @@ class App extends React.Component {
         <SolarSystem
           data="solar-system"
         />
-        <Title
-          headline="Planetas"
-        />
+
       </div>
     );
   }
